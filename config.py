@@ -11,8 +11,8 @@ PORT = 1700
 NTP = "pool.ntp.org"
 NTP_PERIOD_S = 3600
 
-WIFI_SSID = 'SFR-a340'
-WIFI_PASS = 'QV2VF29WHIPR'
+WIFI_SSID = 'ICIMarseille'
+WIFI_PASS = 'lescleswpacestlongataper'
 
 # for EU868
 LORA_FREQUENCY = 868100000
