@@ -11,8 +11,8 @@ PORT = 1700
 NTP = "pool.ntp.org"
 NTP_PERIOD_S = 3600
 
-WIFI_SSID = 'ICIMarseille'
-WIFI_PASS = 'lescleswpacestlongataper'
+WIFI_SSID = 'xxxxx'
+WIFI_PASS = 'xxxx'
 
 # for EU868
 LORA_FREQUENCY = 868100000
